@@ -5,7 +5,7 @@ This repository contains the all basic important Algorithms including graph, dp,
 
 Also I added some solved problems from online judge like codeforces, leetcode, atcoder etc.
 ## Table of contents
-The topic I included in this repo
+The topic I included in this repository
 
 #### 1. Binary and Ternary Search
 - [Binary and Ternary code](https://github.com/Sumu154/Algorithms/tree/main/A_Binary%20%2B%20Ternary%20Search)
